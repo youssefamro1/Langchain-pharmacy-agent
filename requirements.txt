@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-community
+langchain-core
+sqlalchemy
+psycopg2-binary
+greenlet
+python-telegram-bot
+python-dotenv
+httpx
+openai
